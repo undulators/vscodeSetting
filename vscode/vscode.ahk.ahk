@@ -1,0 +1,11 @@
+﻿Volume_Mute::F1
+Volume_Down::F2
+Volume_Up::F3
+Media_Prev::F4
+Media_Stop::F5
+Media_Next::F6
+Browser_Back::F7
+Browser_Home::F8
+Esc::CapsLock
+CapsLock::Esc
+return
